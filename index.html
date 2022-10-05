@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/phosphor-icons"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha512-z4OUqw38qNLpn1libAN9BsoDx6nbNFio5lA6CuTp9NlK83b89hgyCVq+N5FdBJptINztxn1Z3SaKSKUS5UP60Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <link rel="stylesheet" href="styles.css">
+
+  <title>App Status</title>
+</head>
+<body class="p-4 bg-zinc-100 flex flex-col gap-4">
+
+  <div class="border border-zinc-200 p-4 rounded-lg bg-white">
+    <div class="h-full overflow-auto" id="table_screen">
+      <table class="custom-table" id="my_table">
+        <thead>
+          <tr></tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </div>
+
+  <div id="modal" class="hidden">
+    <div class="relative z-10" aria-labelledby="modal-title" role="dialog" aria-modal="true">
+      <div class="fixed inset-0 bg-gray-500 bg-opacity-75 transition-opacity"></div>
+
+      <div class="fixed inset-0 z-10 overflow-y-auto">
+        <div class="flex overflow-hidden min-h-full items-end justify-center p-4 text-center sm:items-center sm:p-0">
+          <div id="modalAnimation" class="relative transform overflow-hidden rounded-lg translate-x-96 bg-white text-left shadow-xl transition-all sm:my-8">
+            <div class="bg-white px-4 pt-5 pb-4 sm:p-6 sm:pb-4">
+              <div class="absolute flex right-4">
+                <button onclick="removeModal(0)">X</button>
+              </div>
+              <div class="sm:flex flex flex-col justify-center sm:items-start">
+                <h1 class="w-full text-center mb-2 font-bold">Titulo do equipamento</h1>
+
+                <table class="custom-table" id="table_equipment">
+                  <thead>
+                    <tr>
+                      <th>Data</th>
+                      <th>Total Horas</th>
+                      <th>Total Horimetro</th>
+                      <th>Total Peso(ton)</th>
+                      <th>N° Viagens</th>
+                      <th>DF (%)</th>
+                      <th>EO (%)</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    
+                  <tbody>
+                </table>
+              </div>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="categories" class="flex justify-end gap-4">
+    <!-- <button class="flex items-center gap-2 font-semibold">
+      <span class="w-4 h-4 rounded-full bg-yellow-500"></span>
+      Improdutivo Externas
+    </button>
+    <button class="flex items-center gap-2 font-semibold">
+      <span class="w-4 h-4 rounded-full bg-blue-600"></span>
+      Improdutivo Internas
+    </button>
+    <button class="flex items-center gap-2 font-semibold">
+      <span class="w-4 h-4 rounded-full bg-red-500"></span>
+      Manutenção
+    </button> -->
+  </div>
+
+  <div id="container-tabs">
+    <!-- <div class="tab flex gap-1">
+      <button class="bg-blue-200 p-4 rounded-t-2xl uppercase font-bold text-blue-900">Transporte</button>
+      <button class="bg-zinc-200 p-4 rounded-t-2xl uppercase font-bold text-zinc-800">Carga 1</button>
+      <button class="bg-zinc-200 p-4 rounded-t-2xl uppercase font-bold text-zinc-800">Carga 2</button>
+    </div> -->
+    <!-- <div id="transporte" class="rounded-2xl rounded-tl-none bg-blue-200 flex p-2">
+      <div class="bg-blue-800 rounded-lg flex flex-col gap-2 p-2 items-center"><strong class="uppercase text-white font-bold text-sm">CG787656</strong><img src="https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png" class="rounded-lg w-10"></div>
+    </div>
+    <div id="carga_1" class="tab-content hidden">
+      <div class="bg-blue-800 rounded-lg flex flex-col gap-2 p-2 items-center"><strong class="uppercase text-white font-bold text-sm">CG787656</strong>
+        <img 
+        src="https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png" class="rounded-lg w-10"></div>
+    </div>
+    <div id="carga_2" class="tab-content hidden">
+      <div class="bg-blue-800 rounded-lg flex flex-col gap-2 p-2 items-center"><strong class="uppercase text-white font-bold text-sm">CG787656</strong><img src="https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png" class="rounded-lg w-10"></div>
+    </div> -->
+  </div>
+
+  <script src="scripts.js"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        fontFamily: {
+          sans: ["Inter", "sans-serif"],
+        },
+      },
+    };
+  </script>
+</body>
+</html>

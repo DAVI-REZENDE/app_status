@@ -1,0 +1,83 @@
+.wrapper {
+  max-height: calc(100vh - 83px);
+  overflow: auto;
+}
+
+.custom-table {
+  width: 100%;
+  border-collapse: collapse;
+  border-radius: 10px;
+}
+
+.custom-table thead {
+  padding: 16px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.custom-table thead tr {
+  background-color: #eee;
+  position: sticky;
+  top: 0;
+}
+
+.custom-table thead tr th {
+  padding: 16px;
+  text-align: left;
+  position: relative;
+  text-transform: uppercase;
+  font-weight: 700;
+  white-space: nowrap;
+  color: #666666;
+}
+
+.custom-table thead tr th:not(:last-child)::after {
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 12px;
+  bottom: 12px;
+  background-color: rgb(196, 196, 196);
+  width: 1px;
+}
+
+.custom-table tbody tr:nth-child(even) {
+  background-color: #f2f2fd;
+}
+
+.custom-table tbody tr td {
+  padding: 16px;
+  white-space: nowrap;
+}
+
+@media (max-width: 425px) {
+  .custom-table thead {
+    display: none;
+  }
+
+  .custom-table tbody tr {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .custom-table td::before {
+    content: attr(data-label);
+    font-weight: 600;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1) 1s;
+    text-decoration: uppercase;
+  }
+
+  .custom-table td {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
+
+#options-group button[checked] {
+  background: #bfdbfe;
+  border-color: #0284c7;
+}
+
+#options-group button[checked] > div {
+  background: #3b82f6;
+}
