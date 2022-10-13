@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "json-server": "^0.17.0"
+  },
+  "scripts": {
+    "dev:server": "json-server server.json -w -p 3333"
   }
 }

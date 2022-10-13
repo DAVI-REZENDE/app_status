@@ -7,7 +7,7 @@ async function fetchData() {
 
 async function fetchDataRest() {
   const response = await fetch('http://localhost:3333/rest_equipments').then(res => res.json())
-  setCategories(response.filters.serviceType)
+  setServiceType(response.filters.serviceType)
   setTabs(response)
 }
 
@@ -56,7 +56,7 @@ function setTableEquipment(equipment){
     tr.append(tdEO);
 
     body.append(tr);
-  }) 
+  })
 }
 
 function setTable(allItems) {
@@ -66,14 +66,23 @@ function setTable(allItems) {
 
 function setThead(allItems) {
   const thead = document.querySelector('#my_table thead tr')
-  const [{ equipment }] = allItems
-
-  const columns = Object.keys(equipment).map(column => column.replaceAll('_', ' '))
 
   const firstTh = document.createElement('th')
   firstTh.innerText = 'fluxos'
   thead.append(firstTh)
 
+  const { title } = allItems.shift()
+
+  if(allItems.length === 0) {
+    const titleTh = document.createElement('th')
+    titleTh.innerText = title
+    thead.append(titleTh)
+
+    return;
+  }
+
+  const [{ equipment }] = allItems
+  const columns = Object.keys(equipment).map(column => column.replaceAll('_', ' '))
 
   columns.forEach(columnName => {
     const th = document.createElement('th')
@@ -250,7 +259,7 @@ function openTab(evt, tabName) {
   evt.path[0].classList.add("bg-blue-200", "text-blue-900")
 }
 
-function setCategories(serviceType) {
+function setServiceType(serviceType) {
   const categoriesContainer = document.getElementById('categories')
   console.log(serviceType);
 
@@ -311,89 +320,180 @@ function setTabs(data) {
   const {filters: { categories }} = data;
   const {filters: { serviceType }} = data;
 
-  const containerTabs = document.getElementById("container-tabs")
-  const wrapperTabs = document.createElement("div")
-  wrapperTabs.classList.add("flex", "gap-1")
-
-  categories.forEach((category, index) => {
-    const tab = document.createElement("button")
-    tab.classList.add(
+  if(screen.width <= 720) {
+    const containerCollapse = document.getElementById("collapse");
+    containerCollapse.classList.add(
+      "bg-white",
+      "p-6",
+      "rounded-lg",
       "p-4",
-      "rounded-t-2xl",
-      "uppercase",
-      "font-bold",
-      "tablinks"
-    )
-
-    if(index === 0) {
-      tab.classList.add("bg-blue-200", "text-blue-900")
-    } else {
-      tab.classList.add("bg-zinc-200", "text-zinc-800")
-    }
-
-    tab.innerText = category.description
-    tab.setAttribute("data-tab", category.id)
-    tab.addEventListener('click', (event) => openTab(event, category.id))
-
-    wrapperTabs.append(tab)
-
-    const tabContent = document.createElement("div")
-    tabContent.classList.add(
-      "tabcontent",
-      "rounded-2xl",
-      "rounded-tl-none",
-      "bg-blue-200",
       "flex",
-      "flex-wrap",
-      "gap-2",
-      "p-2"
+      "flex-col",
+      "gap-3"
     )
 
-    if(index !== 0) {
-      tabContent.classList.add("hidden")
-    }
-
-    tabContent.id = category.id
-
-    data[category.id].forEach((equipment) => {
-      const [{ color, id }] = serviceType.filter(service => service.id === equipment.serviceId)
-
-      const currentColor = "bg-[" + color + "]"
-      const wrapper = document.createElement('div');
-      wrapper.id = equipment.id;
-      wrapper.classList.add(
-        currentColor,
-        'rounded-lg',
-        'flex',
-        'flex-col',
-        'gap-2',
-        'p-2',
-        'items-center',
-        'equipment'
+    console.log(data);
+    categories.forEach((category, index) => {
+      const detail = document.createElement("details")
+      detail.classList.add(
+        "rounded-lg",
+        "bg-blue-100",
+        "p-3",
+        "open:ring-2",
+        "open:ring-blue-900"
       )
 
-      wrapper.setAttribute("data-service", id)
-      // wrapper.setAttribute("filtered", "")
+      const summary = document.createElement("summary")
+      summary.classList.add(
+        "text-md",
+        "leading-6",
+        "uppercase",
+        "text-blue-700",
+        "font-bold",
+        "select-none"
+      )
+      summary.innerText = category.description
 
-      const strong = document.createElement('strong')
-      strong.innerText = equipment.id;
-      strong.classList.add('uppercase', 'text-white', 'font-bold', 'text-sm')
+      detail.append(summary)
 
-      const image = document.createElement('img')
-      image.src = equipment.imageUrl
-      image.classList.add('rounded-lg', 'w-10')
+      const contentDetail = document.createElement("div")
+      contentDetail.classList.add(
+        "mt-3",
+        "text-sm",
+        "leading-6",
+        "text-slate-600",
+        "flex",
+        "overflow-x-auto",
+        "gap-2"
+      )
 
-      wrapper.append(strong);
-      wrapper.append(image)
+      data[category.id].forEach((equipment) => {
+        const [{ color, id }] = serviceType.filter(service => service.id === equipment.serviceId)
 
-      tabContent.append(wrapper)
+        const currentColor = "bg-[" + color + "]"
+        const wrapper = document.createElement('div');
+        wrapper.id = equipment.id;
+        wrapper.classList.add(
+          currentColor,
+          'rounded-lg',
+          'flex',
+          'flex-col',
+          'gap-2',
+          'p-2',
+          'items-center',
+          'equipment'
+        )
+
+        wrapper.setAttribute("data-service", id)
+        wrapper.addEventListener("click", (event) => addAnimationWrapper(equipment.id,event));
+        // wrapper.setAttribute("filtered", "")
+
+        const strong = document.createElement('strong')
+        strong.innerText = equipment.id;
+        strong.classList.add('uppercase', 'text-white', 'font-bold', 'text-sm')
+
+        const image = document.createElement('img')
+        image.src = equipment.imageUrl
+        image.classList.add('rounded-lg', 'w-10')
+
+        wrapper.append(strong);
+        wrapper.append(image)
+
+        contentDetail.append(wrapper)
+      })
+
+      detail.append(contentDetail)
+      containerCollapse.append(detail)
     })
 
-    containerTabs.append(tabContent)
+  } else {
+    const containerTabs = document.getElementById("container-tabs")
+    const wrapperTabs = document.createElement("div")
+    wrapperTabs.classList.add("flex", "gap-1")
 
-  })
+    categories.forEach((category, index) => {
+      const tab = document.createElement("button")
+      tab.classList.add(
+        "p-4",
+        "rounded-t-2xl",
+        "uppercase",
+        "font-bold",
+        "tablinks"
+      )
 
-  containerTabs.prepend(wrapperTabs)
+      if(index === 0) {
+        tab.classList.add("bg-blue-200", "text-blue-900")
+      } else {
+        tab.classList.add("bg-zinc-200", "text-zinc-800")
+      }
+
+      tab.innerText = category.description
+      tab.setAttribute("data-tab", category.id)
+      tab.addEventListener('click', (event) => openTab(event, category.id))
+
+      wrapperTabs.append(tab)
+
+      const tabContent = document.createElement("div")
+      tabContent.classList.add(
+        "tabcontent",
+        "rounded-2xl",
+        "rounded-tl-none",
+        "bg-blue-200",
+        "flex",
+        "flex-wrap",
+        "gap-2",
+        "p-2"
+      )
+
+      if(index !== 0) {
+        tabContent.classList.add("hidden")
+      }
+
+      tabContent.id = category.id
+
+      data[category.id].forEach((equipment) => {
+        const [{ color, id }] = serviceType.filter(service => service.id === equipment.serviceId)
+
+        const currentColor = "bg-[" + color + "]"
+        const wrapper = document.createElement('div');
+        wrapper.id = equipment.id;
+        wrapper.classList.add(
+          currentColor,
+          'rounded-lg',
+          'flex',
+          'flex-col',
+          'gap-2',
+          'p-2',
+          'items-center',
+          'equipment'
+        )
+
+        wrapper.setAttribute("data-service", id)
+        wrapper.addEventListener("click", (event) => addAnimationWrapper(equipment.id,event));
+        // wrapper.setAttribute("filtered", "")
+
+        const strong = document.createElement('strong')
+        strong.innerText = equipment.id;
+        strong.classList.add('uppercase', 'text-white', 'font-bold', 'text-sm')
+
+        const image = document.createElement('img')
+        image.src = equipment.imageUrl
+        image.classList.add('rounded-lg', 'w-10')
+
+        wrapper.append(strong);
+        wrapper.append(image)
+
+        tabContent.append(wrapper)
+      })
+
+      containerTabs.append(tabContent)
+
+    })
+
+    containerTabs.prepend(wrapperTabs)
+  }
+
+  
 }
 
 fetchData();

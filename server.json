@@ -188,6 +188,2618 @@
         "id": "1",
         "to": "ITEM"
       }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    },
+    {
+      "equipment": {
+        "equipamento_carga": [
+          {
+            "id": "CD34571",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG786307",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787657",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ],
+        "equipamento_transporte": [
+          {
+            "id": "CQ657865",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787690",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787619",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          },
+          {
+            "id": "CG787650",
+            "imageUrl": "https://images.vexels.com/media/users/3/215113/isolated/preview/9e02b5e0eaf44dc28217adc1360218bc-ilustraci--n-de-excavadora-de-construcci--n-by-vexels.png"
+          }
+        ]
+      },
+      "header": {
+        "from": "MANGABA",
+        "id": "1",
+        "to": "ITEM"
+      }
+    }
+  ],
+  "infoTable": [
+    {
+      "DF": 90,
+      "EO": 130,
+      "date": "30/09/2022",
+      "hourMeter": "10",
+      "hoursTotal": "90",
+      "nTrip": "6",
+      "weightTotal": "154"
+    },
+    {
+      "DF": 90,
+      "EO": 130,
+      "date": "30/11/2022",
+      "hourMeter": "70",
+      "hoursTotal": "130",
+      "nTrip": "7",
+      "weightTotal": "154"
+    },
+    {
+      "DF": 90,
+      "EO": 130,
+      "date": "30/12/2022",
+      "hourMeter": "50",
+      "hoursTotal": "150",
+      "nTrip": "8",
+      "weightTotal": "154"
     }
   ],
   "rest_equipments": {
@@ -285,35 +2897,5 @@
         }
       ]
     }
-  },
-
-  "infoTable": [
-  {
-    "date": "30/09/2022",
-    "hoursTotal": "90",
-    "hourMeter" : "10",
-    "weightTotal": "154",
-    "nTrip": "6",
-    "DF": 90,
-    "EO" : 130    
-  },
-  {
-    "date": "30/11/2022",
-    "hoursTotal": "130",
-    "hourMeter" : "70",
-    "weightTotal": "154",
-    "nTrip": "7",
-    "DF": 90,
-    "EO" : 130    
-  },
-  {
-    "date": "30/12/2022",
-    "hoursTotal": "150",
-    "hourMeter" : "50",
-    "weightTotal": "154",
-    "nTrip": "8",
-    "DF": 90,
-    "EO" : 130    
   }
-]
 }
